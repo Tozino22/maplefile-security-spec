@@ -4,7 +4,7 @@ A worked example of **specifying security and AI-governance controls before a li
 code is written** — for a Canadian AI tax assistant handling SIN, banking details and
 financial statements.
 
-Built by **Tosin Aina** — CISSP, CISA, CRISC, ISO/IEC 27001 Lead Auditor, ISACA AAISM.
+Built by **Tosin Aina** — CISSP, CISA, CRISC, ISO/IEC 27001 Lead Auditor.
 
 ---
 
